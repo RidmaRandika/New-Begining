@@ -1,1 +1,1 @@
-console.log('Git Hub');
+console.log('Git Hub Tutorials by Ridma Randika');
